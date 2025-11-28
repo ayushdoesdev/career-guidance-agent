@@ -25,6 +25,7 @@ az login
 ```
 
 If you don't have azure cli installed you can do it using brew. Now being a developer don't ask me how to do that, not everything can be vibe coded, just search it on google and do that.
+
 ---
 
 ## 🔧 How It Works
