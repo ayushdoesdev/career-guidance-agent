@@ -6,6 +6,13 @@ Users type a career-related prompt (e.g., *“Guide me for Python backend develo
 
 ---
 
+## Demo
+
+https://github.com/ayushdoesdev/career-guidance-agent/blob/main/demo.mov
+
+
+---
+
 ## How I installed from scratch
 
 ```bash
