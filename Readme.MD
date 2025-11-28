@@ -8,7 +8,7 @@ Users type a career-related prompt (e.g., *“Guide me for Python backend develo
 
 ## Demo
 
-![Demo](demo.gif)
+[![Watch the video](https://img.youtube.com/vi/HcClKK0MD-M/0.jpg)](https://www.youtube.com/watch?v=HcClKK0MD-M)
 
 ---
 
