@@ -60,8 +60,8 @@ The project is split into two parts:
 ### 1. Clone the Repo
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/ayushdoesdev/career-guidance-agent.git
+cd career-guidance-agent
 ```
 
 ### 2. Create a Virtual Environment
